@@ -146,7 +146,7 @@ pwd
 env
 exit
 
-12.-REVISAR LA BITATCORA (LOG) DE LA EJECUCION DE UN CONTENEDOR
+12.-REVISAR LA BITACORA (LOG) DE LA EJECUCION DE UN CONTENEDOR
 ---------------------------------------------------------------
 * Porque quiza no corre bien, ha fallado, etc
 
